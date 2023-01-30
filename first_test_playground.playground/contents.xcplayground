@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='5.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
-    <timeline fileName='timeline.xctimeline'/>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Untitled Page 2'/>
+        <page name='checkpoint1'/>
+        <page name='Untitled Page'/>
+        <page name='freq_dict_trial'/>
+        <page name='checkpoint2'/>
+        <page name='checkpoint3'/>
+        <page name='checkpoint 4'/>
+        <page name='checkpoint5'/>
+        <page name='checkpoint5 debug'/>
+        <page name='emoji_practice'/>
+    </pages>
 </playground>
